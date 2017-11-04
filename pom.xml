@@ -25,8 +25,8 @@
     <configuration>  
     <url>http://localhost:8086/manager/text</url>  
     <server>TomcatServer</server>
-	<username>admin</username>  
-    <password>password</password>
+	<username>tomcat</username>  
+    <password>s3cret</password>
 	</configuration>   
   </plugin>
   </plugins> 
